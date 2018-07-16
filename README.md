@@ -16,6 +16,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [IDEs](#ides)
 - [Examples](#examples)
 - [Comparing, Evaluating, Integrating with other Tools](#other-tools)
+- [Lambda-Backed Custom Resources](#custom-resources)
 
 <!-- /MarkdownTOC -->
 
@@ -154,6 +155,12 @@ CfnCluster is a framework that deploys and maintains high performance computing 
 [Why we use Terraform and not Chef, Puppet, Ansible, SaltStack, or CloudFormation](https://blog.gruntwork.io/why-we-use-terraform-and-not-chef-puppet-ansible-saltstack-or-cloudformation-7989dad2865c#.8bkq5jc9z) - Overview of features of various Infrastructure as Code Tools, including CloudFormation.
 
 [Choosing the Right Tool to Provision AWS Infrastructure](https://www.thoughtworks.com/insights/blog/choosing-right-tool-provision-aws-infrastructure) - Comparing CloudFormation and Teraform.
+
+<a name="custom-resources" />
+
+## Lamba-backed Custom Resources
+
+[cloudformation-ami](https://github.com/PokaInc/cloudformation-ami) - Custom resource to build an AMI using CloudFormation
 
 ## License
 
